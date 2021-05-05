@@ -1,0 +1,14 @@
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\bin\Debug\netcoreapp3.1\NextBaseTest.Services.deps.json
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\bin\Debug\netcoreapp3.1\NextBaseTest.Services.dll
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\bin\Debug\netcoreapp3.1\NextBaseTest.Services.pdb
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\bin\Debug\netcoreapp3.1\NextBase.Data.dll
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\bin\Debug\netcoreapp3.1\NextBaseTest.Core.dll
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\bin\Debug\netcoreapp3.1\NextBase.Data.pdb
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\bin\Debug\netcoreapp3.1\NextBaseTest.Core.pdb
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\obj\Debug\netcoreapp3.1\NextBaseTest.Services.csprojAssemblyReference.cache
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\obj\Debug\netcoreapp3.1\NextBaseTest.Services.AssemblyInfoInputs.cache
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\obj\Debug\netcoreapp3.1\NextBaseTest.Services.AssemblyInfo.cs
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\obj\Debug\netcoreapp3.1\NextBaseTest.Services.csproj.CoreCompileInputs.cache
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\obj\Debug\netcoreapp3.1\NextBaseTest.Services.csproj.CopyComplete
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\obj\Debug\netcoreapp3.1\NextBaseTest.Services.dll
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Services\obj\Debug\netcoreapp3.1\NextBaseTest.Services.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NextBase.Data\NextBase.Data.csproj" />
+    <ProjectReference Include="..\NextBaseTest.Core\NextBaseTest.Core.csproj" />
+  </ItemGroup>
+
+</Project>

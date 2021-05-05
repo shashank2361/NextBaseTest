@@ -1,0 +1,12 @@
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBase.Data\bin\Debug\netcoreapp3.1\NextBase.Data.deps.json
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBase.Data\bin\Debug\netcoreapp3.1\NextBase.Data.runtimeconfig.json
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBase.Data\bin\Debug\netcoreapp3.1\NextBase.Data.runtimeconfig.dev.json
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBase.Data\bin\Debug\netcoreapp3.1\NextBase.Data.dll
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBase.Data\bin\Debug\netcoreapp3.1\NextBase.Data.pdb
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBase.Data\obj\Debug\netcoreapp3.1\NextBase.Data.AssemblyInfoInputs.cache
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBase.Data\obj\Debug\netcoreapp3.1\NextBase.Data.AssemblyInfo.cs
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBase.Data\obj\Debug\netcoreapp3.1\NextBase.Data.csproj.CoreCompileInputs.cache
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBase.Data\obj\Debug\netcoreapp3.1\NextBase.Data.dll
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBase.Data\obj\Debug\netcoreapp3.1\NextBase.Data.pdb
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBase.Data\obj\Debug\netcoreapp3.1\NextBase.Data.genruntimeconfig.cache
+C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBase.Data\obj\Debug\netcoreapp3.1\NextBase.Data.csprojAssemblyReference.cache
