@@ -33,13 +33,11 @@ namespace NextBaseTest.Data.Repository
             var sql = string.Format("exec usp_Firmware_MonthlyVersionHistory {0}", model);
              
              var result =    await Context.TestMonthlyVersionHistorys.FromSqlRaw("EXECUTE  usp_Firmware_MonthlyVersionHistory  {0}" , model).ToListAsync();
-         //    var result2 =    await Context.TestMonthlyVersionHistorys.FromSqlRaw("EXECUTE  usp_Firmware_MonthlyVersionHistory {0}" , model).ToListAsync();
-             
+              
             return result;
 
 
-           // return  await Task.FromResult(result);  
-        }
+         }
 
         public async Task<TestFirmware>  GetLastVersionModelno(decimal version, string model)
         {
@@ -50,8 +48,4 @@ namespace NextBaseTest.Data.Repository
 }
 
 
-
-//return await Context.TestMonthlyVersionHistorys.FromSqlRaw($"exec usp_Firmware_MonthlyVersionHistory  {model}");
-
-//  var result =  Context.Database.ExecuteSqlRawAsync("exec usp_Firmware_MonthlyVersionHistory", name);
-//var result = await Context.Database.ExecuteSqlRawAsync("usp_Firmware_MonthlyVersionHistory {0}", model); 
+ 

@@ -6,4 +6,3 @@ C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Core\obj\Debug\netco
 C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Core\obj\Debug\netcoreapp3.1\NextBaseTest.Core.csproj.CoreCompileInputs.cache
 C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Core\obj\Debug\netcoreapp3.1\NextBaseTest.Core.dll
 C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Core\obj\Debug\netcoreapp3.1\NextBaseTest.Core.pdb
-C:\Users\Shashank-PC\Source\Repos\NextBaseTest\NextBaseTest.Core\obj\Debug\netcoreapp3.1\NextBaseTest.Core.csprojAssemblyReference.cache
