@@ -84,12 +84,12 @@ namespace NextBase.Controller
         [Route("MonthlyVersionHistory")]
         [HttpGet]
         
-        public async Task<ActionResult<Chart>> GetMonthlyVersionHistory(string model)
+        public async Task<ActionResult<Chart>> GetMonthlyVersionHistory()
         {
 
             try
             {
-                var _chart = await IVersionService.GetChartData(model);
+                var _chart = await IVersionService.GetChartData();
                 return Ok(_chart);
             }
             catch (Exception ex)

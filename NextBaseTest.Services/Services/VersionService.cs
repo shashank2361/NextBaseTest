@@ -46,7 +46,7 @@ namespace NextBaseTest.Services
             return await versionsRepo.GetAllVersion();
         }
 
-        public async Task<Chart> GetChartData(string model)
+        public async Task<Chart> GetChartData()
         {
             var getallVersions = await versionsRepo.GetAllVersion();
 

@@ -14,11 +14,11 @@
 
 
 <script>
-
+    /*"/MonthlyVersionHistory?model=NBDVR522GWA*/
      
 
       $.ajax({
-              url: "/MonthlyVersionHistory?model=NBDVR522GWA",
+              url: "/MonthlyVersionHistory",
             //data: "{ 'searchItem':  ' }",
             type: "Get",
             dataType: "json",
@@ -36,7 +36,12 @@
                     data:res ,
                 options: {
                        responsive: true, // Instruct chart js to respond nicely.
-                     maintainAspectRatio: false, // Add to prevent default behaviour of full-width/height 
+                    maintainAspectRatio: false, // Add to prevent default behaviour of full-width/height 
+                    y: {
+                            beginAtZero: true
+                    },
+                     stacked: true
+                     
                     }
                 
                 });
@@ -54,82 +59,4 @@
 
 
 </script>
-       @*<script src="~/lib/Chart.js/chart.js"></script>*@
-
-
-
-
-                   @*//{
-                    //labels: xaxis,
-                    //    //["Tokyo", "Mumbai", "Mexico City", "Shanghai", "Sao Paulo", "New York", "Karachi", "Buenos Aires", "Delhi", "Moscow"],
-                    //datasets: [{
-                    //    label: 'Series 1', // Name the series
-                    //    data:[200, 520, 244, 1400, 14141, 411, 3544, 471, 555, 611],
-                    //    //    yaxis,                //, // Specify the data values array
-                    //    fill: true,
-                    //    borderColor: '#2196f3', // Add custom color border (Line)
-                    //    backgroundColor: '#2196f3', // Add custom color background (Points and Fill)
-                    //    borderWidth: 1 // Specify bar border width
-                    //        },
-                    //        {
-                    //    label: 'Series 2', // Name the series
-                    //    data:  [500, 50, 2424, 14040, 14141, 4111, 4544, 47, 5555, 6811], // Specify the data values array
-                    //    fill: true,
-                    //    borderColor: '#496f3', // Add custom color border (Line)
-                    //    backgroundColor: '#5196f3', // Add custom color background (Points and Fill)
-                    //    borderWidth: 1 // Specify bar border width
-                    //    }]
-                    //}*@
-
-
-                    
-                        @*//var xaxis = [];
-                        //var yaxis = [];
-                        //var dataPoints = [];
-
-
-                        // xaxis = response.map( x=> x.monthYear)
-                        // yaxis = response.map( x=> x.cameraTotalMonth)
-                       
-                         /*console.log(xaxis )  */
-                        //dataPoints.label = xaxis;
-                        //dataPoints.y = yaxis;
-                        //for (var i = 0; i < response.length; i++) {
-                        //    dataPoints.push({ label: response[i].monthYear, y: response[i].cameraTotalMonth });
-                        //}
-
-
-                                    
-                         //console.log(dataPoints )  
-                // var data = {
-                //            datasets: [{
-                //            data: yaxis,
-                //            linearGradient: [209, 4, 4, 0.90],
-                //            backgroundColor: ["rgba(21, 35, 33, 0.12)", "#F7464A", "#46BFBD", "#FDB45C" , "#F7465A" , "#FDA45C" , "#FEA45C" , "#FFA45C"]
-                //            }],
-                //        labels: xaxis,
-                //        };
-
-
-                //console.log(data)
-
-                //var canvas =   document.getElementById("doughtChart");
-                //var ctx = canvas.getContext("2d");
-                //    const config = {
-                //      type: 'doughnut',
-                //      data,
-                //        options: {},
- 
-                //    };
- 
-
-
-
-                //var myNewChart = new Chart(ctx, {
-                //    type: 'doughnut',
-                //    data: data,
-                //    options: { maintainAspectRatio: false }
-
-                //});
-                //   myNewChart.canvas.parentNode.style.height = '558px';*@
-                @*//   myNewChart.canvas.parentNode.style.width = '1258px';*@
+        

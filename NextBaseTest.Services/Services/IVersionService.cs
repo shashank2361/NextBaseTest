@@ -13,6 +13,6 @@ namespace NextBaseTest.Services
         Task< IEnumerable<TestFirmware>> GetAllVersion();
         Task <Tuple<TestFirmware , TestFirmware>>  GetbyVersionModelno (decimal version, string model);
         Task<IEnumerable<TestMonthlyVersionHistory>> GetMonthlyVersionHistory(string model);
-        Task <Chart>GetChartData(string model);
+        Task <Chart>GetChartData();
     }
 }
